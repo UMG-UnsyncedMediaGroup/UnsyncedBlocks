@@ -1,0 +1,10 @@
+﻿  UnsyncedBlocks.cpp
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(59,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(59,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(60,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(60,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(61,36): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(61,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(62,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Gebruiker\source\repos\UnsyncedBlocks\UnsyncedBlocks\UnsyncedBlocks.cpp(62,24): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  UnsyncedBlocks.vcxproj -> C:\Users\Gebruiker\source\repos\UnsyncedBlocks\x64\Debug\UnsyncedBlocks.exe
